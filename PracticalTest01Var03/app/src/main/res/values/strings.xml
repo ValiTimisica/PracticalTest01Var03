@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest01Var03</string>
+    <string name="second_activity_button">NAVIGATE TO SECOND</string>
+    <string name="check1">Check1</string>
+    <string name="check2">Check2</string>
+    <string name="edit_text1">Edit1</string>
+    <string name="edit_text2">Edit2</string>
+    <string name="display_button">DISPLAy INFO</string>
+</resources>
